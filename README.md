@@ -13,6 +13,8 @@ Animes爱好者，时不时也玩点音乐(Guitar)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter)
 
 继续努力，继续可爱！
+
+最好的目标就是每天都快乐！
 RP++
 
 <!--

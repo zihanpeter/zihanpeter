@@ -1,10 +1,17 @@
 ## Hi there 👋
 
+一个小小的蒟蒻，编程初学者
+
+对于Web、OI、Robot都有涉及，最近在学3D Game
+
+用爱发电开发一些自己喜欢的项目
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zihanpeter)
+继续努力，继续可爱！
+RP++
 
 <!--
 **zihanpeter/zihanpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

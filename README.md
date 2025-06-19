@@ -12,9 +12,7 @@ Animes爱好者，时不时也玩点音乐(Guitar)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter?layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zihanpeter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter&layout=compact)
 
 继续努力，继续可爱！
 

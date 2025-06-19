@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-一个小小的蒟蒻，编程初学者
+一个小小的蒟蒻
 
 Windows和Mac老玩家(
 
@@ -8,7 +8,17 @@ Windows和Mac老玩家(
 
 用爱发电开发一些自己喜欢的项目
 
-Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar)
+Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar, both classical and acoustic)
+
+A very weak programmer
+
+An expert of using Windows and Mac(
+
+I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming.
+
+Developing some projects empowered by my love of programming
+
+Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
@@ -18,7 +28,11 @@ Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar)
 
 最好的目标就是每天都快乐！
 
-RP++
+Keep working hard and keep being cute!
+
+The best goal is to be happy every day!
+
+### RP++
 
 <!--
 **zihanpeter/zihanpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

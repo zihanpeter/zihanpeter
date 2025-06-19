@@ -2,6 +2,8 @@
 
 一个小小的蒟蒻，编程初学者
 
+Windows和Mac老玩家(
+
 对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming
 
 用爱发电开发一些自己喜欢的项目

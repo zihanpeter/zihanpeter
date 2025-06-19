@@ -6,6 +6,8 @@
 
 用爱发电开发一些自己喜欢的项目
 
+Animes爱好者
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter)

@@ -2,6 +2,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zihanpeter)
 
 <!--

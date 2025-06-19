@@ -1,38 +1,24 @@
 ## Hi there 👋
 
-一个小小的蒟蒻
+一个小小的蒟蒻 | A humble programmer
 
-Windows和Mac老玩家(
+Windows和Mac老玩家（| An expert of using Windows and Mac(
 
-对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming
+对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming | I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming
 
-用爱发电开发一些自己喜欢的项目
+用爱发电开发一些自己喜欢的项目 | Developing some projects empowered by my love of programming
 
-Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar, both classical and acoustic)
-
-A very weak programmer
-
-An expert of using Windows and Mac(
-
-I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming.
-
-Developing some projects empowered by my love of programming
-
-Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
+Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar, both classical and acoustic) | Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter&layout=compact)
 
-继续努力，继续可爱！
+继续努力，继续可爱！| Keep working hard and keep being cute!
 
-最好的目标就是每天都快乐！
+最好的目标就是每天都快乐！| The best goal is to be happy every day!
 
-Keep working hard and keep being cute!
-
-The best goal is to be happy every day!
-
-### RP++
+RP++
 
 <!--
 **zihanpeter/zihanpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

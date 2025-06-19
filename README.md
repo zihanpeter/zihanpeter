@@ -8,7 +8,7 @@ Windows和Mac老玩家(
 
 用爱发电开发一些自己喜欢的项目
 
-Animes爱好者，时不时也玩点音乐(Guitar)
+Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 

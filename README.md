@@ -8,7 +8,7 @@ Windows和Mac老玩家（| An expert of using Windows and Mac(
 
 用爱发电开发一些自己喜欢的项目 | Developing some projects empowered by my love of programming
 
-Anime(both cartoons and games)爱好者，时不时也玩点音乐(Guitar, both classical and acoustic) | Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
+二次元(both cartoons and games)爱好者，时不时也玩点音乐(Guitar, 古典和民谣) | Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 

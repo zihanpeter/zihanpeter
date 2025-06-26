@@ -1,36 +1,36 @@
 ## Hi there 👋
 
-A humble programmer
+- A humble programmer
 
-一个小小的蒟蒻
+  一个小小的蒟蒻
 
-A veteran of both Windows and Mac(
+- A veteran of both Windows and Mac(
 
-Windows和Mac老玩家（
+  Windows和Mac老玩家（
 
-I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming
+- I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming
 
-对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming
+  对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming
 
-Developing some projects empowered by my love of programming
+- Developing some projects empowered by my love of programming
 
-用爱发电开发一些自己喜欢的项目
+  用爱发电开发一些自己喜欢的项目
 
-Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
+- Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
 
-二次元(动漫和游戏)爱好者，时不时也玩点音乐(Guitar, 古典和民谣)
+  二次元(动漫和游戏)爱好者，时不时也玩点音乐(Guitar, 古典和民谣)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter&layout=compact)
 
-Keep working hard and keep being cute!
+- Keep working hard and keep being cute!
 
-继续努力，继续可爱！
+  继续努力，继续可爱！
 
-The best goal is to be happy every day!
+- The best goal is to be happy every day!
 
-最好的目标就是每天都快乐！
+  最好的目标就是每天都快乐！
 
 RP++
 

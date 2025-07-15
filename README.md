@@ -18,7 +18,7 @@
 
 - Anime (both cartoons and games) lover, and sometimes plays some music (Guitar, both classical and acoustic)
 
-  二次元(动漫和游戏)爱好者，时不时也玩点音乐(Guitar, 古典和民谣)
+  二次元（动漫和游戏）爱好者，时不时也玩点音乐（吉太，古典和民谣）
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
 
@@ -32,7 +32,7 @@
 
   最好的目标就是每天都快乐！
 
-RP++
+RP++ 敲可爱哒！
 
 <!--
 **zihanpeter/zihanpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

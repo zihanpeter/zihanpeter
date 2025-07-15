@@ -32,7 +32,9 @@
 
   最好的目标就是每天都快乐！
 
-RP++ 敲可爱哒！
+RP++
+
+敲可爱哒！
 
 <!--
 **zihanpeter/zihanpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

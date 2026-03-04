@@ -20,10 +20,6 @@
 
   二次元（动漫和游戏）爱好者，时不时也玩点音乐（吉太，古典和民谣）
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zihanpeter&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanpeter&layout=compact)
-
 - Keep working hard and keep being cute!
 
   继续努力，继续可爱！

@@ -4,13 +4,13 @@
 
   一个小小的蒟蒻
 
-- A veteran of both Windows and Mac(
+- A veteran of both Windows and Mac
 
   Windows和Mac老玩家（
 
-- I have dabbled in Web, OI, and Robotics, and I am currently learning 3D Game Programming
-
-  对于Web、OI、Robotics都有涉猎，最近在学3D Game Programming
+- I have dabbled in Web, OI, AI, and Robotics
+  
+  对于Web、OI、AI和Robotics都有涉猎
 
 - Developing some projects empowered by my love of programming
 
